@@ -68,11 +68,6 @@ print(f"Длина: {len(sequence)}")
 print(f"Тип: {sequence.get_alphabet()}")
 ```
 
-Запуск демонстрационного примера
-
-```python
-python classes.py
-```
 
 Определение типа последовательности
 
